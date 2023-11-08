@@ -11,7 +11,7 @@
 * [Альтернативная империя наносит удар](/articles/domen-ryzheborodyh-al-ternativnaja-imperija-nanosit-udar)
 * [Привет из 90-х](/articles/domen-ryzheborodyh-privet-iz-90-h)
 * [В бой вступает формальная логика](/articles/domen-ryzheborodyh-v-boj-vstupaet-formal-naja-logika)
-* [Что такое «друзья римского народа»](/articles/domen-ryzheborodyh-chto-takoe-druz-ja-rimskogo-naroda-)
+* [Что такое «друзья римского народа»](/articles/domen-ryzheborodyh-chto-takoe-druz-ja-rimskogo-naroda)
 * [Если папа не разрешает](/articles/domen-ryzheborodyh-esli-papa-ne-razreshaet)
 * [Папа может, папа может](/articles/domen-ryzheborodyh-papa-mozhet-papa-mozhet)
 * [Сицилианская защита](/articles/domen-ryzheborodyh-sitsilianskaja-zaschita)
